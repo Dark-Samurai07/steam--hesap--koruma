@@ -1,12 +1,12 @@
 # steam--hesap--koruma
 ▬▬▬▬▬▬▬▬▬▬▬▬
-ÖNEMLİ! ALDATMACA UYARISI! DERİLERİNİZİ VE BUHAR HESABINIZI NASIL KORUYACAĞINIZI ÖĞRENİN!
+ÖNEMLİ! ALDATMACA UYARISI! DERİLERİNİZİ VE Steam HESABINIZI NASIL KORUYACAĞINIZI ÖĞRENİN!
 
 🔸 Bu kılavuz, özellikle CS:GO Discord'da yaygın olan CS:GO tabanlı dolandırıcılıkları önlemeyi amaçlamaktadır.
 ▬▬▬▬▬▬▬▬▬▬▬▬
 🔻 Dolandırıcılar ne yapar?🔻
 
-🔸 Dolandırıcılar, buhar hesabınızı çalmaya veya ele geçirmeye ve görünümlerinizi almaya çalışacak. Yarım yamalak bir web sitesine veya sahte bir buhar bağlantısına gitmenizi isteyebilirler ve oturum açtığınızda kullanıcı adınızı ve şifrenizi çalabilirler.
+🔸 Dolandırıcılar, buhar hesabınızı çalmaya veya ele geçirmeye ve görünümlerinizi almaya çalışacak. Yarım yamalak bir web sitesine veya sahte bir Steam bağlantısına gitmenizi isteyebilirler ve oturum açtığınızda kullanıcı adınızı ve şifrenizi çalabilirler.
 
 NOT: Bir dolandırıcı onları zaten çalmışsa, kaplamalarınız geri alınamaz.
 ▬▬▬▬▬▬▬▬▬▬▬▬
