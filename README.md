@@ -49,8 +49,8 @@ NOT: Bir dolandırıcı onları zaten çalmışsa, kaplamalarınız geri alınam
 ▬▬▬▬▬▬▬▬▬▬▬▬
 🔻Son Notlar🔻
 
-🔸 Yaygın dolandırıcılık yöntemleri hakkında daha fazla bilgi edinmek istiyorsanız, bilinen dolandırıcılıkların tam listesine bakın: https://docs.google.com/document/d/e/2PACX-1vSEfbUcrU6Wl-ZSuv12tO5EMC2vLi7FBhFax5V3JBzkCCS1sVPLoBKPi2tg0_JKCHzWKHOlYyhnc6GB/pub
-
+🔸 Yaygın dolandırıcılık yöntemleri hakkında daha fazla bilgi edinmek istiyorsanız, bilinen dolandırıcılıkların tam listesine bakın:[ https://docs.google.com/document/d/e/2PACX-1vSEfbUcrU6Wl-ZSuv12tO5EMC2vLi7FBhFax5V3JBzkCCS1sVPLoBKPi2tg0_JKCHzWKHOlYyhnc6GB/pub
+](https://github.com/Dark-Samurai07/onemli/blob/main/README.md)
 🔸TLDR; Yabancılardan gelen bağlantılara tıklamayın, kendi araştırmalarınızı yapın ve yalnızca %100 güvendiğiniz alım satımları yapın, herhangi bir şüpheniz varsa, bunlardan kaçınmak ve görmezden gelmek daha iyidir.
 Bir kişiden şüpheleniyorsanız, lütfen onu @developer_1'e veya sohbetteki bir Moderatöre bildirin.
 
